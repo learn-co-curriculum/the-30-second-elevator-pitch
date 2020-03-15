@@ -25,17 +25,16 @@ As you begin drafting your elevator pitch, here are a few things to focus on:
 * What value you bring
 * What you're building
 
-
 You’re building a story arc here. You need a narrative that a person can follow. It can start with your education and flow chronologically to present day or it can start with where you are now and what you’re working on, then go into your past a bit and connect the dots. Either way, you’re likely to wrap up with your current professional interests and where you want to take your skills next. Here’s an example (that happens to be developer focused, but the structure of which is adaptable to any field):
 
->*“I’m a programmer and recovering attorney. I’m just about to wrap up my training at Flatiron School and I’m excited to combine my years of experience negotiating contracts and working with clients with my new expertise in Ruby on Rails and JavaScript to a new opportunity as a developer. I’m working on a small front end project for a startup that connects users to standard legal contracts that they can customize to their needs. So far, it’s been a neat combination of my skills and interests and I’d like to find similar opportunities in my next gig.” *
+>*“I’m a Security Analyst and recovering attorney.  I’m just about to wrap up my training at Flatiron School and I’m excited to combine my years of experience negotiating contracts and working with clients with my new expertise in Governance Risk and Compliance and Linux to a new opportunity working in systems admin and security.  One of my related projects at Flatiron gave me the opportunity to hone these skills, which I’d love to tell you more about. So far, it’s been a great combination of my skills and interests and I’d like to find similar opportunities in my next job." *
 
 If you're looking for inspiration, here are a few questions to ask yourself:
 
 * What am I good at?
 * What problems have I solved?
-* Why do I want to be a [developer/data scientist, etc.]?
-* What was my first exposure to [code/big data, etc.]?
+* Why do I want to be a [security anaylst, pen tester etc.]?
+* What was my first exposure to [cybersecurity, threat analysis etc.]?
 * What am I passionate about?
 * What was my ‘AHA’ moment to pivot into my new field of study?
 
@@ -88,7 +87,7 @@ Here are a few questions to mull over as you prepare your elevator pitch:
 
 * Q: How does your pitch change when you’re sending a cold email versus writing an “About Me” page for your personal website/portfolio?
 
-  A: It may not be appropriate to immediately start talking about what kind of job you’re looking for in a cold email since the reader may not be prepared for it (or it could come off as “aggressive”). When contacting someone out of the blue, spend more time talking about the other person and why you’re interested in them, than you do talking about yourself. Your personal website/portfolio, on the other hand, would be the perfect place to dive into the kind of work that inspires you and all of the other talents and experience (and projects!) you bring to the table.
+  A: It may not be appropriate to immediately start talking about what kind of job you’re looking for in a cold email since the reader may not be prepared for it (or it could come off as “aggressive”). When contacting someone out of the blue, spend more time talking about the other person and why you’re interested in them, than you do talking about yourself. Your personal website/portfolio or blog on the other hand, would be the perfect place to dive into the kind of work that inspires you and all of the other talents and experience (and projects!) you bring to the table.
   
 * Q: How does your pitch change in a group vs. a 1:1 setting?
 
@@ -111,4 +110,3 @@ To keep the conversation going, you may want to think about what questions you m
 
 Check out [this short video](https://youtu.be/F4B7aSYBWKg) from Career Services for additional insight into crafting your Elevator Pitch, and begin to work with your coach on the best way to tell your story!
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/the-30-second-elevator-pitch'>The 30 Second Elevator Pitch</a> on Learn.co and start learning to code for free.</p>
